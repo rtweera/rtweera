@@ -90,13 +90,13 @@
 
 ###
 
- [//]: # <h3 align="left">Profile Views:</h3>
+<h3 align="left">Profile Views:</h3>
 
- [//]: # ###
+ ###
 
- [//]: # <div align="center">
- [//]: # <img src="https://profile-counter.glitch.me/rtweera/count.svg?"  />
- [//]: # </div>
+ <div align="center">
+ <img src="https://profile-counter.glitch.me/rtweera/count.svg?"  />
+</div>
 
 ###
 
