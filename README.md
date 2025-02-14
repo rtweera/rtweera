@@ -63,8 +63,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-T-Weerasinghe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="161" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-T-Weerasinghe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rtweera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="161" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rtweera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
@@ -95,7 +95,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/R-T-Weerasinghe/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/rtweera/count.svg?"  />
 </div>
 
 ###
@@ -105,7 +105,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=R-T-Weerasinghe&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=rtweera&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
