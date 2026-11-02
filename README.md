@@ -95,13 +95,15 @@ I enjoy working across the software stack, from understanding system architectur
   Data Processing • Database Design • Data Pipelines • System Integration
 </p>
 
----
-
 ## Git Koi
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
 
-**Credits:** https://github.com/yalongwastaken/git-koi
+<p align="center">
+  <sup>Credits: <a href="https://github.com/yalongwastaken/git-koi">https://github.com/yalongwastaken/git-koi</a></sup>
+</p>
 
 ---
 
